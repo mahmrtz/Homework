@@ -1,0 +1,228 @@
+body {
+    background: wheat;
+}
+
+
+
+.murtuz-main {
+    min-height: 600px;
+    width: 800px;
+    background-color: white;
+    margin-left: 320px;
+    float: left;
+    box-sizing: border-box;
+    margin-left: 500px;
+}   
+
+.murtuz-top {
+    width: 100%;
+    height: 145px;
+    /* background-color: aqua; */
+    background-image: url(https://t4.ftcdn.net/jpg/02/28/68/07/360_F_228680721_gGbh5ylrMPMikdBIzWb8N1yGBLg8dmu9.jpg);
+    background-size: cover;
+    float: left;
+    margin-bottom: 5px;
+}
+#m-top-left {
+    height: 100%;
+    width: 400px;
+    /* background-color: green; */
+    box-sizing: border-box;
+    float: left; 
+}
+
+.murtuz-main > .murtuz-top > #m-top-left > span {
+    margin-left: 40px;
+}
+
+#header {
+    padding: 10px;
+    /* color: red; */
+    width: 100%;
+    height: 40%;
+}
+
+
+#header h1 {
+    margin-left: 20px;
+}
+
+#m-top-right {
+    height: 100%;
+    width: 50%;
+    /* background-color: red; */
+    float: left;
+    box-sizing: border-box;
+}
+
+
+
+#m-top-right img {
+    width: 150px;
+    height: 150px;
+    margin-left: 55px;
+}
+
+.m-options {
+    width: 100px;
+    height: 30px;
+    /* color: gray; */
+    text-align: center;
+    padding-top: 14px;
+    /* color: black; */
+}
+
+
+#bottom {
+
+    min-height: 450px;
+    width: 100%;
+    /* background: red; */
+    box-sizing: border-box;
+    float: left;
+}
+
+.m-menu {
+    box-sizing: border-box;
+    float: left;
+    /* background-color: blue; */
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.m-options {
+    box-sizing: border-box;
+    float: left;
+    background: gainsboro;
+    height: 100%;
+    width: 15%;
+    margin-left: 8.7px;
+}
+
+#menu-first {
+    margin-left: 8px;
+}
+
+
+.m-options:hover {
+    background: gray;
+    cursor: pointer;
+}
+
+
+.m-bottom-left {
+    min-height: 320px;
+    width: 200px;
+    /* background: black; */
+    box-sizing: border-box;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 25px;
+    padding: 2px;
+}
+
+#left-top {
+    min-height: 155px;
+    width: 196px;
+    float: left;
+    box-sizing: border-box;
+    background-color: white;
+    padding: 1px;
+
+}
+
+#left-bottom {
+    min-height: 155px;
+    width: 196px;
+    margin-top: 2px;
+    float: left;
+    box-sizing: border-box;
+    background-color: white;
+
+}
+
+#left-top span {
+    /* color: red; */
+    padding: 20px;   
+}
+
+
+#left-bottom span {
+    margin-left: 10px;
+}
+
+.m-right-bottom {
+    width: 550px;
+    min-height: 395px;
+    /* background: yellow; */
+    float: left;
+    box-sizing: border-box;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+#m-gallery {
+    width: 100%;
+    min-height: 197.5px;
+    /* background: aqua; */
+    float: left;
+    box-sizing: border-box;
+}
+
+#m-otherservices {
+    width: 100%;
+    min-height: 197.5px;
+    float: left;
+    box-sizing: border-box;
+    /* background-color:chartreuse; */
+}
+
+#m-others {
+    width: 50%;
+    min-height: 197.5px;
+    float: left;
+    box-sizing: border-box;
+    /* background-color: brown; */
+    padding: 5px;
+    padding-left: 10px;
+}
+
+#m-subs {
+    width: 50%;
+    min-height: 197.5px;
+    float: left;
+    box-sizing: border-box;
+    /* background-color: orange; */
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.m-readmore {
+    width: 80px;
+    min-height: 30px;
+    background-color: gainsboro;
+    padding: 1px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+
+
+.m-readmore:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+
+.muhammed-copyright {
+    min-height: 50px;
+    width: 700px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: gainsboro;
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+}
